@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://linkedin.com/in/muammergns/">
+    <img src="https://komarev.com/ghpvc/?username=muammergns&style=for-the-badge">
+</a>
+
 ![](https://hit.yhype.me/github/profile?account_id=109173512)
